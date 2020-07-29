@@ -1,2 +1,2 @@
 # freelancers
-Freelance web designers &amp; developers I have worked with.
+Freelance designers &amp; developers I have worked with.
